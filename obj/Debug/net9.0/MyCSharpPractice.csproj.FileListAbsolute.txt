@@ -1,0 +1,14 @@
+D:\DotNetProjects\MyCSharpPractice\bin\Debug\net9.0\MyCSharpPractice.exe
+D:\DotNetProjects\MyCSharpPractice\bin\Debug\net9.0\MyCSharpPractice.deps.json
+D:\DotNetProjects\MyCSharpPractice\bin\Debug\net9.0\MyCSharpPractice.runtimeconfig.json
+D:\DotNetProjects\MyCSharpPractice\bin\Debug\net9.0\MyCSharpPractice.dll
+D:\DotNetProjects\MyCSharpPractice\bin\Debug\net9.0\MyCSharpPractice.pdb
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.AssemblyInfoInputs.cache
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.AssemblyInfo.cs
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.dll
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\refint\MyCSharpPractice.dll
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.pdb
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\MyCSharpPractice.genruntimeconfig.cache
+D:\DotNetProjects\MyCSharpPractice\obj\Debug\net9.0\ref\MyCSharpPractice.dll
